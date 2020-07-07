@@ -1,4 +1,4 @@
-package de.idealo.seo.hackerrank;
+package hackerrank;
 import java.util.Scanner;
 
 public class JavaStdinAndStdoutII {
