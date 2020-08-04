@@ -27,3 +27,6 @@ hs_err_pid*
 target/
 .idea/
 .DS_Store
+
+# codility challenges
+/src/main/java/codility/challenges/
