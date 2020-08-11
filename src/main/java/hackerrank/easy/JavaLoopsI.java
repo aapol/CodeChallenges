@@ -1,5 +1,5 @@
 // https://www.hackerrank.com/challenges/java-loops-i/problem
-package hackerrank;
+package hackerrank.easy;
 
 import java.util.Scanner;
 

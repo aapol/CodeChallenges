@@ -1,5 +1,5 @@
 // https://www.hackerrank.com/challenges/java-datatypes/problem
-package hackerrank;
+package hackerrank.easy;
 
 import java.util.Scanner;
 

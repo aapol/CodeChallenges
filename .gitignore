@@ -30,3 +30,6 @@ target/
 
 # codility challenges
 /src/main/java/codility/challenges/
+
+# testing
+/src/main/java/testing/
