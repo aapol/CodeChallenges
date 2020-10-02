@@ -29,7 +29,9 @@ target/
 .DS_Store
 
 # codility challenges
-/src/main/java/codility/challenges/
+/src/main/java/codilitychallenges/
 
 # testing
 /src/main/java/testing/
+src/main/resources/
+student.json
